@@ -1,7 +1,7 @@
 import useWidgetStore from '../stores/widgetStore';
 import useNotificationStore from '../stores/notificationStore';
 interface WidgetProps {
-  id: number;
+  id: string;
   title: string;
   data: string;
 }
