@@ -8,17 +8,18 @@ A personalized dashboard app built with **Next.js**, **TypeScript**, **Zustand**
 
 ## Features
 
-- **Dynamic Widgets**: Add or remove widgets with sample data.
+- **Dynamic Widgets**: Add or remove widgets with custom titles and summaries.
 - **Remove All Widgets**: Clear all widgets with a single click.
-- **Real-Time Notifications**: See alerts when widgets are added or removed.
-- **Clear Notifications**: Dismiss all notifications with one button.
+- **Real-Time Notifications**: Get alerts when widgets are added, removed, or modified.
+- **Clear Notifications**: Dismiss all notifications with a single click.
+- **Dark Mode Toggle**: Switch between light and dark themes for a personalized experience.
 
 ## Tech Stack
 
-- **Next.js**: Server-rendered React.
-- **TypeScript**: Strongly typed development.
-- **Zustand**: Lightweight state management ([Zustand Docs](https://zustand.docs.pmnd.rs/getting-started/introduction)).
-- **Tailwind CSS**: Rapid and responsive styling.
+- **Next.js**: Server-rendered React application.
+- **TypeScript**: Strongly typed development for better code quality.
+- **Zustand**: Lightweight state management for managing widgets and notifications ([Zustand Docs](https://zustand.docs.pmnd.rs/getting-started/introduction)).
+- **Tailwind CSS**: Tailwind CSS framework for fast and responsive styling.
 
 ## Installation
 
