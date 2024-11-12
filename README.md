@@ -24,6 +24,15 @@ A personalized dashboard app built with **Next.js**, **TypeScript**, **Zustand**
 
 1. **Clone the repo**:
    ```bash
-   git clone <repo-url> dashboard-widgets-zustand
+   git clone https://github.com/0xChintan/dashboard-widgets-zustand.git
    cd dashboard-widgets-zustand
-# dashboard-widgets-zustand
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Run the development server**:
+   ```bash
+  npm run dev
+
+4. **Open http://localhost:3000 in your browser.**
